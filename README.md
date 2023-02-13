@@ -9,6 +9,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cassy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cassy/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2> https://www.linkedin.com/in/cassy-l-b0b3a4220/
 
 [linkedin]: https://www.linkedin.com/in/cassy-l-b0b3a4220/
