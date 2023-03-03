@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cassy, an <a href="https://linkedin.com/in/Cassy">IT Professional💻
+<h1>Hi, I'm Cassy, an <a href=https://www.linkedin.com/in/cassy-l-b0b3a4220/>IT Professional💻
 
 <h2>👩🏿‍💻 Information Technology Projects:</h2>
 
